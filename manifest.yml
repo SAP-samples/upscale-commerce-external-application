@@ -1,0 +1,9 @@
+--- # CloudFoundry manifest
+applications:
+- name: <name>
+  buildpacks:
+   - java_buildpack
+  path: target/external-application-0.0.1-SNAPSHOT.jar
+  routes:
+  - route: <name>.cfapps.us10.hana.ondemand.com
+...
