@@ -1,12 +1,9 @@
-# Title
+# SAP Upscale Commerce: External Application Samples
 
-SAP Upscale Commerce: External Application Samples
+## External Application samples for SAP Upscale Commerce.
 
-## Description
+## Samples:
 
-External Application samples for SAP Upscale Commerce.
-
-Sample:
 1) Store Locator: Displays a Google Map with all Fulfillment Stores in your Upscale tenant. It can be configured to display inventory per product per store.[Read more](https://github.com/SAP-samples/upscale-commerce-external-application/tree/sample/store-locator-inventory-intermediary)
 
 ## Requirements
