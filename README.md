@@ -1,9 +1,9 @@
 # Inventory Intermediary for Store locator
 
-For use with `https://github.com/SAP-samples/upscale-commerce-custom-component/tree/sample/store-locator`
+For use with the [Store Locator Custom Component](https://github.com/SAP-samples/upscale-commerce-custom-component/tree/main/projects/store-locator)
 
 ## Description
-Go-between for Store Locator custom component & Upscale APIs to supply Inventory & Store information.
+Go-between for Store Locator Custom Component & Upscale APIs to supply Inventory & Store information. [Read more on Store Locator Custom Component](https://github.com/SAP-samples/upscale-commerce-custom-component/tree/main/projects/store-locator)
 
 ## Build & deploy steps (Cloudfoundry)
 
