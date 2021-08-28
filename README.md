@@ -6,7 +6,7 @@ External Applications are used to access non-public APIs in Upscale Commerce. [R
 
 ## Samples:
 
-1) Store Locator: Displays a Google Map with all Fulfillment Stores in your Upscale tenant. It can be configured to display inventory per product per store. This sample creates allows the Store Locator Custom Component to access store and inventory information. [Read more](https://github.com/SAP-samples/upscale-commerce-external-application/tree/sample/store-locator-inventory-intermediary)
+1) Store Locator: Displays a Google Map with all Fulfillment Stores in your Upscale tenant. It can be configured to display inventory per product per store. This sample creates allows the Store Locator Custom Component to access store and inventory information. [Read more](https://github.com/SAP-samples/upscale-commerce-external-application/tree/sample/store-locator-inventory-intermediary), [See Branch](https://github.com/SAP-samples/upscale-commerce-external-application/tree/sample/store-locator-inventory-intermediary)
 
 ## Requirements
 
