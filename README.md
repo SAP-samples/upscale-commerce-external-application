@@ -5,7 +5,7 @@
 ## External Application samples for SAP Upscale Commerce
 
 External Applications are used to access non-public APIs in Upscale Commerce. 
-See [SAP Upscale Commerce User Guide](https://help.sap.com/viewer/0160c41e0de84b218d05bc1185213d1d/LATEST/en-US/d3eb8e23c2914424b3c4f73950e9c357.html) on SAP Help Portal.
+See [SAP Upscale Commerce User Guide - External Apps](https://help.sap.com/viewer/0160c41e0de84b218d05bc1185213d1d/LATEST/en-US/d3eb8e23c2914424b3c4f73950e9c357.html) on SAP Help Portal.
 
 ## Samples
 
