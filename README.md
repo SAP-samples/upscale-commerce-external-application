@@ -1,3 +1,11 @@
+## Deprecation Notice
+
+This public repository is read-only and no longer maintained.
+
+![](https://img.shields.io/badge/STATUS-NOT%20CURRENTLY%20MAINTAINED-red.svg?longCache=true&style=flat)
+
+---
+
 # SAP Upscale Commerce: External Application Samples
 
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/upscale-commerce-external-application)](https://api.reuse.software/info/github.com/SAP-samples/upscale-commerce-external-application)
